@@ -33,5 +33,5 @@ It supports features for **Brand Owners** and **Customers**, including inventory
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/clothing-brand-api.git
+git clone https://github.com/Fabiyi/clothing-brand-api.git
 cd clothing-brand-api
